@@ -1,3 +1,7 @@
+// Farkas Csaba
+// 2023-002-19
+// SZOFT II/N
+// Dolgozat IV
 package views;
 
 import java.util.ArrayList;

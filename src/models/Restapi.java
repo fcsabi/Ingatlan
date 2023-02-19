@@ -1,3 +1,7 @@
+// Farkas Csaba
+// 2023-002-19
+// SZOFT II/N
+// Dolgozat IV
 package models;
 
 public class Restapi {
